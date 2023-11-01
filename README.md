@@ -24,9 +24,9 @@
 Ce projet est le back de l'applicatif Cocktail. Il s'agit d'un exercice de réalisation de projet.
 
 ## Pré-requis
-Installation d'une base de donnée avec serveur
-Configuration d'un fichier .env (avec generation d'un JWT_SECRET)
-Attention les mots de passes sont cryptés en <b>bcrypt<b>
+Installation d'une base de donnée avec serveur<br>
+Configuration d'un fichier .env (avec generation d'un JWT_SECRET)<br>
+Attention les mots de passes sont cryptés en <b>bcrypt<b><br>
 
 ## Fonctionnalitées
 - Gestion des utilisateur compte et connection. 
