@@ -2,11 +2,6 @@
 
 # Cocktail - Back End ExpressJS 4
 
-## Pré-requis
-Installation d'une base de donnée avec serveur
-Configuration d'un fichier .env (avec generation d'un JWT_SECRET)
-Attention les mots de passes sont cryptés en <b>bcrypt<b>
-
 </div>
 
 <p align="center">
@@ -24,9 +19,14 @@ Attention les mots de passes sont cryptés en <b>bcrypt<b>
   <br><br><br>
 </p>
 
+
 # A propos
 Ce projet est le back de l'applicatif Cocktail. Il s'agit d'un exercice de réalisation de projet.
 
+## Pré-requis
+Installation d'une base de donnée avec serveur
+Configuration d'un fichier .env (avec generation d'un JWT_SECRET)
+Attention les mots de passes sont cryptés en <b>bcrypt<b>
 
 ## Fonctionnalitées
 - Gestion des utilisateur compte et connection. 
